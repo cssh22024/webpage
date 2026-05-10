@@ -12,7 +12,7 @@ export type BlogPost = {
 export const posts: BlogPost[] = [
   {
     slug: 'vite-react-minimum',
-    title: 'Vite と React の最小構成',
+    title: 'Vite と React の最小構成\n',
     date: '2026-05-10',
     description:
       'GitHub Pages に置きやすい静的ブログを、Vite と React で小さく始めるためのメモ。',
